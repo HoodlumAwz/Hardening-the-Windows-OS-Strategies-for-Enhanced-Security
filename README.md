@@ -1,7 +1,8 @@
 # Hardening-the-Windows-OS-Strategies-for-Enhanced-Security
 Strengthen your Windows system with proven techniques for enhanced security and resilience. on your Operating Systems.
 
-Implementing the Principle of Least Privilege to Protect Against Ransomware and Threats
+1. Implementing the Principle of Least Privilege to Protect Against Ransomware and Threats
+   
 The Principle of Least Privilege is a cornerstone of cybersecurity defense. Ensuring users only have the minimum permissions required to perform their tasks significantly reduces the risk of ransomware and other threats. Here’s a practical example:
 Scenario: An unknown user account has permissions to access a sensitive storage drive.
 Solution: To secure the storage drive:
